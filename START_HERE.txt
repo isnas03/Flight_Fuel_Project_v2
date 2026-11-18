@@ -1,0 +1,19 @@
+FLIGHT FUEL PROJECT — MATPLOTLIB EDITION
+
+1. Extract the ZIP into a permanent folder on your computer.
+2. Read README.md (open it in Cursor or any text editor).
+3. Install Miniforge/Conda if needed; README Step 3 explains from the beginning.
+4. Complete first-time setup for your operating system:
+   Windows: setup_windows.bat in Miniforge Prompt
+   Mac/Linux: bash setup_mac_linux.sh
+5. Start:
+   Windows: run_windows.bat
+   Mac/Linux: bash run_mac_linux.sh
+
+Do not run with generic python/python3: these can select the wrong Python.
+Setup requires internet; afterwards the calculator works offline.
+Do not move the project folder after setup or copy .runtime to another PC.
+Each computer must run its own setup using the original ZIP.
+
+README includes Cursor instructions, examples, troubleshooting, tests,
+and the Mac pyenv/old-Tk fix. This is source code, not a standalone EXE.

@@ -1,0 +1,3 @@
+# For an existing Python 3.12 installation with working Tk 8.6+ only.
+# Beginners should use the supplied Conda setup scripts instead.
+matplotlib>=3.8,<4
